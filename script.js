@@ -251,12 +251,12 @@ else if (typeof looker === "undefined") {
 
   // --- 1. Dados Simulados ---
   const data = [
-    { label: "Exportación", value: 1250000 },
-    { label: "Equipo Interno", value: 980000 },
-    { label: "Regional NO-NE", value: 730000 },
-    { label: "Nuevos Negocios", value: 680000 },
-    { label: "Reg. SP + Prem/Stud", value: 892000 },
-    { label: "Hotelería/Franquicias", value: 420000 }
+    { label: "Exportación", value: 0010000 },
+    { label: "Equipo Interno", value: 001000 },
+    { label: "Regional NO-NE", value: 001000 },
+    { label: "Nuevos Negocios", value: 0010000 },
+    { label: "Reg. SP + Prem/Stud", value: 0010 },
+    { label: "Hotelería/Franquicias", value: 001 }
   ];
 
   // --- 2. Ordenação ---

@@ -1,12 +1,18 @@
 {
-  "name": "pikolin_racing_chart",
-  "version": "1.0.0",
-  "description": "Pikolin Racing Bar Chart - Community Visualization for Looker Studio",
-  "author": "Wagner Nascimento/ Pikolin",
-  "visualization": {
-    "script": "index.html",
-    "styles": [
-      "style.css"
-    ]
+  "name": "Pikolin Racing Chart",
+  "organization": "Pikolin",
+  "description": "Gráfico de barras animadas com logotipo da marca.",
+  "logo": "logo.png",
+  "author": "Wagner Nascimento / Pikolin",
+  "homepage": "https://wagnernascimento-alt.github.io/Racing_chart/",
+  "supports": {
+    "data": true,
+    "config": true
+  },
+  "files": {
+    "main": {
+      "js": "script.js",
+      "css": "style.css"
+    }
   }
 }

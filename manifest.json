@@ -1,0 +1,12 @@
+{
+  "name": "pikolin_racing_chart",
+  "version": "1.0.0",
+  "description": "Pikolin Racing Bar Chart - Community Visualization for Looker Studio",
+  "author": "Wagner Nascimento/ Pikolin",
+  "visualization": {
+    "script": "index.html",
+    "styles": [
+      "style.css"
+    ]
+  }
+}
